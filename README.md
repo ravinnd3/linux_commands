@@ -13,3 +13,4 @@ date - shows current date
 cal - opens calender
 mv - moves the files from one directory to another directory
 cp - copy the file
+which - used to locate files or directory
