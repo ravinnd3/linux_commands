@@ -9,3 +9,6 @@ echo - for displaying lines or text
 cat - id displays the context of file
 who - it displays the users logged
 cd - it changes directory
+date - shows current date
+cal - opens calender
+mv - moves the files from one directory to another directory
