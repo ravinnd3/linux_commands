@@ -8,3 +8,4 @@ ls - for listing files and directory
 echo - for displaying lines or text
 cat - id displays the context of file
 who - it displays the users logged
+cd - it changes directory
