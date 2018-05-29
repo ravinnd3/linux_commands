@@ -6,3 +6,4 @@ mkdir - makes directory
 rm - it is used for deleting a file
 ls - for listing files and directory
 echo - for displaying lines or text
+cat - id displays the context of file
