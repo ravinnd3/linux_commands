@@ -4,3 +4,4 @@ vi  - it opens screen editor
 touch -It creates the file and gives the benefit for modifing time and date.
 mkdir - makes directory
 rm - it is used for deleting a file
+ls - for listing files and directory
