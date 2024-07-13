@@ -1,4 +1,4 @@
-# Big_data_hadoop_spark_Assignment-1.2
+# linux basic commands
 pwd - shows current directory with full path
 vi  - it opens screen editor
 touch -It creates the file and gives the benefit for modifing time and date.
